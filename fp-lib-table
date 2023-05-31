@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "deltaAY")(type "KiCad")(uri "${KIPRJMOD}/deltaAY.pretty")(options "")(descr ""))
+)
